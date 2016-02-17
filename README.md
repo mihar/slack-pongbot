@@ -2,7 +2,13 @@
 
 This repo was never meant to be public, I just happened to throw code together in a span of a day to have something fun. Unfortunately, the code quality is terrible and not fit for open source contributions.
 
-I highly recommend checking out [slack-gamebot](https://github.com/dblock/slack-gamebot) as a better alternative.
+## Open source alternatives
+
+- **slack-gamebot**: I highly recommend checking out [slack-gamebot](https://github.com/dblock/slack-gamebot) as a better alternative.
+
+## Hosted alternatives
+
+- **Pinpon**: Pinpon hosts your team's data for you and makes it available in your very own pinpon.co account. Connect him to Slack and you're ready to play.
 
 # Pongbot
 Slack Bot for Ping Pong tracking.
